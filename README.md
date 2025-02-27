@@ -35,7 +35,7 @@
 > 
 > [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Standard_Process_for_Data_Mining.ipynb)
 > 
-> [Leia *"A brief history of data science"* (cap. 1)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/dsp.pdf)
+> [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/dsp.pdf)
 
 
 <br>
