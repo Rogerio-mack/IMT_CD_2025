@@ -52,7 +52,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > * [hands-on-class-1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_1.ipynb) 
 
-> * [hands-on-class-2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class-2.ipynb)
+> * [hands-on-class-2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_2.ipynb)
   
 > [Exercício: Pandas start](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1.ipynb)
 
