@@ -36,10 +36,46 @@
 
 **05.03** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
-> [Exercício: Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML.ipynb)
+> [Exercício: Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML_solucao.ipynb)
  
 > [The Six Pillars for Building Big Data Analytics Ecosystems](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
+
+**12.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+
+Jake VanderPlas. (2016). [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook)  O'Reilly Media, Inc.
+
+McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+> Hands on:
+
+> * [Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
+
+> * [hands-on-class-1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/hands-on-class-1.ipynb) 
+
+> * [hands-on-class-2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/hands-on-class-1.ipynb)
+  
+> [Exercício: Pandas start](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_Pandas1.ipynb)
+
+> Data to explore:
+
+> * [WHO World Health Organization (Tuberculosis)](https://www.who.int/teams/global-tuberculosis-programme/data)
+> * [Gapminder](https://www.gapminder.org/)
+> * [World Inequality Database](https://wid.world/)
+
+> [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb)
  
+**19.03**
+
+> **20.03** Aula, exercício avaliativo, presencial
+
+**26.03**
+
+**02.04**
+
+> **03.04** Aula, exercício avaliativo, presencial
+
+**09.04** Semana de avaliação
+
 <br>
 
 ### Algumas referências úteis
