@@ -40,7 +40,7 @@
  
 > [The Six Pillars for Building Big Data Analytics Ecosystems](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
 
-**12.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+**12.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) 
 
 Jake VanderPlas. (2016). [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)  O'Reilly Media, Inc.
 
