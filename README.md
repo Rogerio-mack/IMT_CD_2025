@@ -42,7 +42,7 @@
 
 **12.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 
-Jake VanderPlas. (2016). [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook)  O'Reilly Media, Inc.
+Jake VanderPlas. (2016). [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)  O'Reilly Media, Inc.
 
 McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
