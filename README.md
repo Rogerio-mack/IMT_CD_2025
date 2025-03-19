@@ -58,13 +58,13 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > Data to explore:
 
+**19.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) 
+
 > * [WHO World Health Organization (Tuberculosis)](https://www.who.int/teams/global-tuberculosis-programme/data)
 > * [Gapminder](https://www.gapminder.org/)
 > * [World Inequality Database](https://wid.world/)
 
 > [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb)
- 
-**19.03**
 
 > **20.03** Aula, exercício avaliativo, presencial
 
