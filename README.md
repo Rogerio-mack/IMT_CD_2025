@@ -57,7 +57,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > [Exercício: Pandas start](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1.ipynb)
 
 
-**19.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) 
+**19.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | [solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1_solucao.ipynb)
 
 > Data to explore:
 > * [WHO World Health Organization (Tuberculosis)](https://www.who.int/teams/global-tuberculosis-programme/data)
