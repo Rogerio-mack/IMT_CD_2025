@@ -68,8 +68,6 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > [Pandas `.iloc`, `.loc`, *update by index*](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) | [**Take Care!!!**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_Cuidados.ipynb)
 
-> [Exercício: Pandas B3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_Pandas_B3.ipynb)
-
 > **20.03** Aula, exercício avaliativo, presencial
 
 **26.03**
