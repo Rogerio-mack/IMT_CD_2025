@@ -64,13 +64,14 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > * [Gapminder](https://www.gapminder.org/)
 > * [World Inequality Database](https://wid.world/)
 
-> [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb)
+> [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1_solucao.ipynb)
 
-> [Pandas `.iloc`, `.loc`, *update by index*](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) | [**Take Care!!!**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_Cuidados.ipynb)
+> **20.03** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex1_pandas1_turma1.ipynb), presencial
 
-> **20.03** Aula, exercício avaliativo, presencial
+**26.03** > [Pandas `.iloc`, `.loc`, *update by index*](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) 
 
-**26.03**
+> [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+> Jake VanderPlas. [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
 
 **02.04**
 
