@@ -70,13 +70,17 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 **26.03** > [Pandas `.iloc`, `.loc`, *update by index*](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) 
 
-> [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
-> Jake VanderPlas. [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
-
 > Hands on:
 > * [hands-on-class](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250326.ipynb)
 
-> [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb)
+> [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc_solucao.ipynb)
+ 
+> [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+> Jake VanderPlas. [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
+ 
+> Hands on:
+> * [hands-on-class](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250327.ipynb)
 
 **02.04**
 
