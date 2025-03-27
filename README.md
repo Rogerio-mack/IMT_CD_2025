@@ -76,6 +76,8 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > Hands on:
 > * [hands-on-class](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250326.ipynb)
 
+> [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb)
+
 **02.04**
 
 > **03.04** Aula, exercício avaliativo, presencial
