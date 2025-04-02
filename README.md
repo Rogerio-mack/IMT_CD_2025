@@ -9,15 +9,11 @@
 
 ### Exemplos de Trabalhos de Final de Curso dos Alunos (2024)
 
->> [Classificação de artigos científicos do site Arxiv](https://github.com/Projeto-Ciencia-de-Dados/ProjetoCD)
-
->> [Crash Test](https://github.com/CD-CrashTest/Crash_Test)
-
->> [Chorano e Dançando](https://github.com/CDIMT2024/chorano_e_dancando?tab=readme-ov-file)
-
->> [Previsão de Ações com Séries Temporais e IA Generativa](https://github.com/ubiratanfilho/stocks_forecasting/tree/main)
-
->> [Ranking de Apps de Bancos mais bem Avaliados da Google Play](https://github.com/PedroHein/T6_CD2)
+> [Classificação de artigos científicos do site Arxiv](https://github.com/Projeto-Ciencia-de-Dados/ProjetoCD) |
+[Crash Test](https://github.com/CD-CrashTest/Crash_Test) |
+[Chorano e Dançando](https://github.com/CDIMT2024/chorano_e_dancando?tab=readme-ov-file) |
+[Previsão de Ações com Séries Temporais e IA Generativa](https://github.com/ubiratanfilho/stocks_forecasting/tree/main) |
+[Ranking de Apps de Bancos mais bem Avaliados da Google Play](https://github.com/PedroHein/T6_CD2)
 
 
 <br>
