@@ -74,12 +74,9 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 [Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | VanderPlas: [Pivot_tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html) | [Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html) |
 [Vetorized Strings](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html) | [Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
 
-* [*on class (reshape)*]()
+* [*on class (reshape)*]() |  [Exercício Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_reshape.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_reshape_solucao.ipynb) 
 * [*on class (strings)*]()
 * [*on class (joins e concat)*]()
-
-* [Exercício Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_reshape.ipynb)
-
 
 > **03.04** Aula, exercício avaliativo, presencial
 
