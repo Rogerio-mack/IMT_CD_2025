@@ -77,7 +77,10 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [*on class (reshape)*]()
 * [*on class (strings)*]()
 * [*on class (joins e concat)*]()
-  
+
+* [Exercício Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_reshape.ipynb)
+
+
 > **03.04** Aula, exercício avaliativo, presencial
 
 **09.04** Semana de avaliação
