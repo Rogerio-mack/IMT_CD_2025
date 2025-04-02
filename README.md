@@ -65,7 +65,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 #### **26.03** Pandas Index, Selection, Update (`.iloc`, `.loc`) + Groupby
 
-[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | [VanderPlas, index](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) | [VanderPlas, groupby)](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) 
+[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | VanderPlas: [index](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) | [groupby)](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) 
  
 * [*on class (index)*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250326.ipynb)
 * [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb) |
@@ -75,8 +75,8 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 #### **02.04** Reshape, Joins, Concat e Strings
 
-[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | [VanderPlas, Pivot_tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html) | [VanderPlas, Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
-[VanderPlas, Vetorized Strings](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html) | [VanderPlas, Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
+[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | VanderPlas: [Pivot_tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html) | [Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html) |
+[Vetorized Strings](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html) | [Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
 
 * [*on class (reshape)*]()
 * [*on class (strings)*]()
