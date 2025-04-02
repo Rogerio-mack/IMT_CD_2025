@@ -70,7 +70,6 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [*on class (index)*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250326.ipynb)
 * [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc_solucao.ipynb)
-
 * [*on class (groupby)*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250327.ipynb)
 * [Exercício Groupby](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_groupby.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_groupby_solucao.ipynb) 
 
