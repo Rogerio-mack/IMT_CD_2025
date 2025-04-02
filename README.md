@@ -27,63 +27,62 @@
 
 ### Introdução, IA X Ciência de Dados, CRISP DM, Colab
 
-**19.02** [Introdução à CD (aula do prof. Paulo Pirozelli)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Introdução_a_CD.ipynb)
+#### **19.02** [Introdução à CD (aula do prof. Paulo Pirozelli)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Introdução_a_CD.ipynb)
 
-**26.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
+#### **26.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
-> 
-> [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/dsp.pdf)
+* [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/dsp.pdf)
 
-**05.03** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Standard_Process_for_Data_Mining.ipynb)
+#### **05.03** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
-> [Exercício: Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML_solucao.ipynb)
- 
-> [The Six Pillars for Building Big Data Analytics Ecosystems](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
+* [Exercício: Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML_solucao.ipynb)
+* [The Six Pillars for Building Big Data Analytics Ecosystems](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
 
-**12.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) 
+### Pandas
 
-Jake VanderPlas. (2016). [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)  O'Reilly Media, Inc.
+#### **12.03** Pandas Introdução 
+
+[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | Jake VanderPlas. (2016). [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)  O'Reilly Media, Inc.
 
 McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-> Hands on:
+* [Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
+* [*on-class 1*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_1.ipynb) | [*on class 2*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_2.ipynb)
+* [Exercício: Pandas start](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1.ipynb) | [solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1_solucao.ipynb)
 
-> * [Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
+#### **19.03** Pandas DataFrames e Séries
 
-> * [hands-on-class-1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_1.ipynb) 
-
-> * [hands-on-class-2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_2.ipynb)
-  
-> [Exercício: Pandas start](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1.ipynb)
-
-
-**19.03** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | [solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ex_pandas1_solucao.ipynb)
+[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) 
 
 > Data to explore:
 > * [WHO World Health Organization (Tuberculosis)](https://www.who.int/teams/global-tuberculosis-programme/data)
 > * [Gapminder](https://www.gapminder.org/)
 > * [World Inequality Database](https://wid.world/)
 
-> [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1_solucao.ipynb)
+* [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1_solucao.ipynb)
 
 > **20.03** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex1_pandas1_turma1.ipynb), presencial
 
-**26.03** > [Pandas `.iloc`, `.loc`, *update by index*](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) 
+#### **26.03** Pandas Index, Selection, Update (`.iloc`, `.loc`) + Groupby
 
-> Hands on:
-> * [hands-on-class](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250326.ipynb)
-
-> [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb) |
+[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | [VanderPlas, index](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) | [VanderPlas, groupby)](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) 
+ 
+* [*on class (index)*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250326.ipynb)
+* [Exercício .loc .iloc](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_loc_iloc_solucao.ipynb)
- 
-> [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
-> Jake VanderPlas. [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
- 
-> Hands on:
-> * [hands-on-class](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250327.ipynb)
 
-**02.04**
+* [*on class (groupby)*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/hands_on_class_20250327.ipynb)
+* [Exercício Groupby](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_groupby.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_groupby_solucao.ipynb) 
 
+#### **02.04** Reshape, Joins, Concat e Strings
+
+[Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb) | [VanderPlas, Pivot_tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html) | [VanderPlas, Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
+[VanderPlas, Vetorized Strings](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html) | [VanderPlas, Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
+
+* [*on class (reshape)*]()
+* [*on class (strings)*]()
+* [*on class (joins e concat)*]()
+  
 > **03.04** Aula, exercício avaliativo, presencial
 
 **09.04** Semana de avaliação
