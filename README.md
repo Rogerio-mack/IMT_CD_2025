@@ -78,7 +78,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [*Exemplos:* vetorização de strings, apply e regex](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Vetorizacao_apply.ipynb)
 * Joins e Concats, ver [Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html) | [Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
 
-> **03.04** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex2_pandas_T1_2025.ipynb), presencial
+> **03.04** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex2_pandas_T1_2025.ipynb) | [form](https://forms.gle/ZLd2LSY75p2o2WGo6), presencial
 
 **09.04** Semana de avaliação
 
