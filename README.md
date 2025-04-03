@@ -75,10 +75,10 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 [Vetorized Strings](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html) | [Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
 
 * [*on class (reshape)*]() |  [Exercício Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_reshape.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_reshape_solucao.ipynb) 
-* [*on class (strings)*]()
-* [*on class (joins e concat)*]()
+* [*Exemplos: vetorização de strings, apply e expressões regulares*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Vetorizacao_apply.ipynb)
+* Joins e Concats, ver [Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html) | [Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
 
-> **03.04** Aula, exercício avaliativo, presencial
+> **03.04** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex2_pandas_T1_2025.ipynb), presencial
 
 **09.04** Semana de avaliação
 
