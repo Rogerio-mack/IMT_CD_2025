@@ -57,7 +57,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 * [Exercício: Pandas WHO Tuberculosis](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex_who1_solucao.ipynb)
 
-> **20.03** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex1_pandas1_turma1.ipynb), presencial
+> **20.03** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex1_pandas1_turma1.ipynb), presencial | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex1_pandas1_solucao.ipynb)
 
 #### **26.03** Pandas Index, Selection, Update (`.iloc`, `.loc`) + Groupby
 
@@ -78,10 +78,41 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [*Exemplos:* vetorização de strings, apply e regex](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Vetorizacao_apply.ipynb)
 * Joins e Concats, ver [Merge/Joins](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html) | [Concat](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
 
-> **03.04** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex2_pandas_T1_2025.ipynb) | [form](https://forms.gle/ZLd2LSY75p2o2WGo6), presencial
+> **03.04** Aula, [exercício avaliativo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex2_pandas_T1_2025.ipynb) | [form](https://forms.gle/ZLd2LSY75p2o2WGo6), presencial | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Ex2_pandas_T1_2025_solucao.ipynb)
 
-**09.04** Semana de avaliação
+#### **09.04** Semana de avaliação
 
+##### SOLUÇÃO DOS EXERCíCIOS
+
+> **As soluções de todos os exercícios já estão postadas aqui (vejam os links "Solução")**
+
+##### CONTEÚDO PARA PROVA
+
+> **O conteúdo para a prova P1 (além da parte conceitual inicial) pode ser resumido aqui pelos capítulos do livro do [VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook) em negrito com os complementos do que vimos em sala e exemplos aqui do GitHub:**
+
+#### 3. Data Manipulation with Pandas
+- **Introducing Pandas Objects**
+- **Data Indexing and Selection**
+- **Operating on Data in Pandas**
+- Handling Missing Data, *não cai, veremos mais adiante*
+- Hierarchical Indexing, *não caem índices hierárquicos, exceto o que vimos nos índices em groupby*
+- **Combining Datasets: Concat and Append**
+- **Combining Datasets: Merge and Join**, *somente Merge* 
+- **Aggregation and Grouping**
+- **Pivot Tables** + `pivot e melt`
+- **Vectorized String Operations** + `apply`
+- Working with Time Series,  *não cai, veremos mais adiante*
+- High-Performance Pandas: eval() and query(),  *não cai*
+- Further Resources,  *não cai*
+
+##### DADOS
+
+> Vale a pena se familiarizar algumas bases de dados e suas estruturas (já indicadas antes ao longo do bimestre)
+
+> * [Gapminder](https://www.gapminder.org/)
+> * [World Inequality Database](https://wid.world/)
+
+<br>
 <br>
 
 ### Algumas referências úteis
