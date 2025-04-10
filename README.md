@@ -7,7 +7,7 @@
 <br>
 <br>
 
-* [P1 PAR](https://forms.gle/T1wng8KrTmSEieSZA)
+* [P1 PAR](https://forms.gle/tGG1tuH7DzUK2zud8)
 * [P1 ÍMPAR](https://forms.gle/wCsY4TukLdgCWxWaA) 
 
 <br>
