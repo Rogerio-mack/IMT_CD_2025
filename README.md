@@ -7,6 +7,12 @@
 <br>
 <br>
 
+<!-- * [P1 PAR](https://forms.gle/PEz7YXFUn3pMBKRX) -->
+<!-- * [P1 ÍMPAR](https://forms.gle/knXS2jBXyZdxFwhz) -->
+
+<br>
+<br>
+
 ### Exemplos de Trabalhos de Final de Curso dos Alunos (2024)
 
 > [Classificação de artigos científicos do site Arxiv](https://github.com/Projeto-Ciencia-de-Dados/ProjetoCD) |
