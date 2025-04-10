@@ -7,8 +7,8 @@
 <br>
 <br>
 
-* [P1 PAR](https://forms.gle/PEz7YXFUn3pMBKRX)
-* [P1 ÍMPAR](https://forms.gle/knXS2jBXyZdxFwhz) 
+* [P1 PAR](https://forms.gle/T1wng8KrTmSEieSZA)
+* [P1 ÍMPAR](https://forms.gle/wCsY4TukLdgCWxWaA) 
 
 <br>
 <br>
