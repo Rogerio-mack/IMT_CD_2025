@@ -122,21 +122,20 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > * [World Inequality Database](https://wid.world/)
 
 <br>
-<br>
 
-#### **16.04** Visualização de Dados
+#### **16.04** Visualização de Dados e Análise Exploratória
 
 [Introdução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c0_intro.ipynb) | [Gráficos com `Matplotlib`](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c2_parte_1.ipynb)
 
-[Gráficos de Evolução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c3_parte_1.ipynb)
-
-> [Exercício `Matplotlib`, script e artist layer](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1.ipynb) |
+* [Gráficos de Evolução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c3_parte_1.ipynb)
+* > [Exercício `Matplotlib`, script e artist layer](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1_solucao.ipynb)
 
-[Gráficos de Distribuição](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c4_parte_1.ipynb) 
+* [Wickham, EDA](https://r4ds.had.co.nz/exploratory-data-analysis.html#exploratory-data-analysis) | [Análise Exploratória, notas de aula](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EDA.ipynb)
+* > [**Projeto I (*primeiro semestre*)**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Projeto_I.ipynb) 
 
->> [**Projeto I (*primeiro semestre*)**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Projeto_I.ipynb) 
-
+<br>
+<br>
 
 ### Algumas referências úteis
 >
