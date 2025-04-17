@@ -7,8 +7,11 @@
 <br>
 <br>
 
-* [P1 PAR](https://forms.gle/tGG1tuH7DzUK2zud8)
-* [P1 ÍMPAR](https://forms.gle/wCsY4TukLdgCWxWaA) 
+* [Plano de Aulas](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Plano_de_Aulas.pdf)
+* [Pesos das Avaliações](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Criterio.pdf)
+
+* [Notas 1o Bimestre (download)](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/CD_P1_2025.xlsx)
+> * [Gabarito P1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/CD_P1_2025_solucao.ipynb)
 
 <br>
 <br>
@@ -120,6 +123,20 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 <br>
 <br>
+
+#### **16.04** Visualização de Dados
+
+[Introdução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c0_intro.ipynb) | [Gráficos com `Matplotlib`](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c2_parte_1.ipynb)
+
+[Gráficos de Evolução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c3_parte_1.ipynb)
+
+> [Exercício `Matplotlib`, script e artist layer](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1_solucao.ipynb)
+
+[Gráficos de Distribuição](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c4_parte_1.ipynb) 
+
+>> [**Projeto I (*primeiro semestre*)**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Projeto_I.ipynb) 
+
 
 ### Algumas referências úteis
 >
