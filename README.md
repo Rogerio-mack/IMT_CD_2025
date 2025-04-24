@@ -140,6 +140,10 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [Múltiplos gráficos: Exercícios resolvidos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_matplotlib2_solucao.ipynb)
 
 <br>
+
+* [Gráficos de Distribuição](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c4_parte_1.ipynb)
+
+<br>
 <br>
 
 ### Algumas referências úteis
