@@ -145,12 +145,14 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 #### **30.04** Gráficos de Evolução e Distribuição
 
-* [Exercício 1, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex1.ipynb)
-* [Exercício 2, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex2.ipynb)
+* [Exercício 1, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex1.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex1_solucao.ipynb)
+* [Exercício 2, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex2.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex1_solucao.ipynb)
 
 #### **07.05** Gráficos de Evolução e Distribuição
 
-**07.05** Aula, exercício avaliativo
+**08.05** **ATENÇÃO:** Aula, exercício avaliativo
 
 <br>
 <br>
