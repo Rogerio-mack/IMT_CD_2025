@@ -143,6 +143,15 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 * [Gráficos de Distribuição](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c4_parte_1.ipynb)
 
+#### **30.04** Gráficos de Evolução e Distribuição
+
+* [Exercício 1, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex1.ipynb)
+* [Exercício 2, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex2.ipynb)
+
+#### **07.05** Gráficos de Evolução e Distribuição
+
+**07.05** Aula, exercício avaliativo
+
 <br>
 <br>
 
