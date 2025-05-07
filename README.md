@@ -150,7 +150,11 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [Exercício 2, Evolução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex2.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_plot_evolucao_ex2_solucao.ipynb)
 
-#### **07.05** Gráficos de Evolução e Distribuição
+#### **07.05** [Quantidades e Proporções](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c5_parte_1.ipynb), [Relações](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c6_parte_1.ipynb)
+
+* [Boas Práticas de Visualização](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c7_parte_1.ipynb)
+
+* [Exercício, Distribuição](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX_Distribuicao_Vendas.ipynb)  
 
 **08.05** **ATENÇÃO:** Aula, exercício avaliativo
 
