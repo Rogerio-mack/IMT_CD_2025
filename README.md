@@ -154,7 +154,8 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 * [Boas Práticas de Visualização](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c7_parte_1.ipynb)
 
-* [Exercício, Distribuição](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX_Distribuicao_Vendas.ipynb)  
+* [Exercício, Distribuição](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX_Distribuicao_Vendas.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX_Distribuicao_Vendas_solucao.ipynb)  
 
 **08.05** **ATENÇÃO:** Aula, exercício avaliativo
 
@@ -162,7 +163,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > 1. Obter e empregar a altura de barras em gráficos
 > 2. Como construir barras paralelas com o Matplotlib
 > 3. Como empregar esquemas de atribuição de cores
-> 4. Como criar llinhas de ajuste (valor médio, médias móveis, regressões)
+> 4. Como criar linhas de ajuste (valor médio, médias móveis, regressões)
 > 5. Como empregar Mapas de Calor para examinar correlações dos dados
 
 <br>
