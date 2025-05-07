@@ -158,6 +158,13 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 **08.05** **ATENÇÃO:** Aula, exercício avaliativo
 
+> Dentre outros, procure entender como:
+> 1. Obter e empregar a altura de barras em gráficos
+> 2. Como construir barras paralelas com o Matplotlib
+> 3. Como empregar esquemas de atribuição de cores
+> 4. Como criar llinhas de ajuste (valor médio, médias móveis, regressões)
+> 5. Como empregar Mapas de Calor para examinar correlações dos dados
+
 <br>
 <br>
 
