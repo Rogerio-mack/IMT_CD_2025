@@ -159,6 +159,8 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 **08.05** **ATENÇÃO:** Aula, exercício avaliativo
 
+> [**Exercício Avaliativo**](https://docs.google.com/forms/d/e/1FAIpQLScRxdRvVpcCf0IhCgv6J7j8gVGkjFW-O-B2KTD5gMJ4Sgqguw/viewform?usp=dialog)
+
 > Dentre outros, procure entender como:
 > 1. Obter e empregar a altura de barras em gráficos
 > 2. Como construir barras paralelas com o Matplotlib
