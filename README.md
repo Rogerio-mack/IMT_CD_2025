@@ -181,6 +181,14 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [Distribuições, Inferência, Teorema do Limite Central, Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
 * [IC e Hipothese Tests](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_IC_HipoteseTests.ipynb)
 
+**21.05** **Séries Temporais I**
+
+* **22.05** **ATENÇÃO:** Aula, exercício avaliativo
+
+**28.05** **Séries Temporais II, e exercícios**
+
+**04.06** **Apresentação dos Projetos e Dúvidas**
+
 
 <br>
 <br>
@@ -211,4 +219,13 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > <img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="120" />
 >
 > * Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie.
-
+>
+>   
+> <img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" width="160"/>
+>
+> * [Data Science from Scratch, Grus J.](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Data%20Science%20from%20Scratch%20by%20Joel%20Grus.pdf)
+>
+> <img src="https://learning.oreilly.com/library/cover/9781492072935/250w/" width="160"/>
+>
+> 
+> * [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce, Peter Gedeck](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce%2C_Andrew_Bruce.pdf)
