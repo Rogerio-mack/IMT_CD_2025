@@ -168,6 +168,20 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > 4. Como criar linhas de ajuste (valor médio, médias móveis, regressões)
 > 5. Como empregar Mapas de Calor para examinar correlações dos dados
 
+**14.05** **Intervalos de Confiança, Bootstrap e Testes de Hipótese**
+
+> <img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" width="160"/>
+
+> * [Data Science from Scratch, Grus J.](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Data%20Science%20from%20Scratch%20by%20Joel%20Grus.pdf)
+
+> <img src="https://learning.oreilly.com/library/cover/9781492072935/250w/" width="160"/>
+
+> * [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce, Peter Gedeck](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce%2C_Andrew_Bruce.pdf)
+
+* [Distribuições, Inferência, Teorema do Limite Central, Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
+* [IC e Hipothese Tests](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_IC_HipoteseTests.ipynb)
+
+
 <br>
 <br>
 
