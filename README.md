@@ -159,7 +159,8 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 **08.05** **ATENÇÃO:** Aula, exercício avaliativo
 
-> [**Exercício Avaliativo**](https://docs.google.com/forms/d/e/1FAIpQLScRxdRvVpcCf0IhCgv6J7j8gVGkjFW-O-B2KTD5gMJ4Sgqguw/viewform?usp=dialog)
+> [**Exercício Avaliativo**](https://docs.google.com/forms/d/e/1FAIpQLScRxdRvVpcCf0IhCgv6J7j8gVGkjFW-O-B2KTD5gMJ4Sgqguw/viewform?usp=dialog) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_avaliativo_graphs_3_solucao.ipynb)
 
 > Dentre outros, procure entender como:
 > 1. Obter e empregar a altura de barras em gráficos
