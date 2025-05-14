@@ -184,9 +184,9 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 **21.05** **Séries Temporais I**
 
-* **22.05** **ATENÇÃO:** Aula, exercício avaliativo
-
 **28.05** **Séries Temporais II, e exercícios**
+
+* **29.05** **ATENÇÃO:** Aula, exercício avaliativo
 
 **04.06** **Apresentação dos Projetos e Dúvidas**
 
