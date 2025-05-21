@@ -182,7 +182,11 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * [Distribuições, Inferência, Teorema do Limite Central, Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
 * [IC e Hipothese Tests](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_IC_HipoteseTests.ipynb)
 
-**21.05** **Séries Temporais I**
+**21.05** **Exercícios, Testes de Significância, Séries Temporais I**
+
+> * [Exemplos, Testes de Significância](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Chapter3_Significance_Tests.ipynb)
+ 
+> * [Exercícios, Testes de Significância](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_Htestes.ipynb)
 
 **28.05** **Séries Temporais II, e exercícios**
 
