@@ -188,6 +188,12 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
  
 > * [Exercícios, Testes de Significância](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_Htestes.ipynb)
 
+> <img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="120" />
+
+> * Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie.
+
+> * [Lab 1 Séries](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte1_introd.ipynb) 
+ 
 **28.05** **Séries Temporais II, e exercícios**
 
 * **29.05** **ATENÇÃO:** Aula, exercício avaliativo
