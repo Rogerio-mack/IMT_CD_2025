@@ -186,7 +186,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > * [Exemplos, Testes de Significância](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Chapter3_Significance_Tests.ipynb)
  
-> * [Exercícios, Testes de Significância](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_Htestes.ipynb)
+> * [Exercícios, Testes de Significância](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_Htestes.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_Htestes_solucao.ipynb)
 
 > <img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="120" />
 
@@ -195,6 +195,12 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 > * [Lab 1 Séries](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte1_introd.ipynb) 
  
 **28.05** **Séries Temporais II, e exercícios**
+
+> * [Séries Temporais, resumo](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/SBSI_2024_tsminicourse.ipynb)
+
+> * [Livro SBSI (Capítulo)](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/138)
+ 
+> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_exercicio_.ipynb)
 
 * **29.05** **ATENÇÃO:** Aula, exercício avaliativo
 
