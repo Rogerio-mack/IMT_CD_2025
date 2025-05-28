@@ -200,7 +200,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > * [Livro SBSI (Capítulo)](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/138)
  
-> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMAx.ipynb)
+> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA.ipynb)
 
 * **29.05** **ATENÇÃO:** Aula, exercício avaliativo
 
