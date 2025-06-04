@@ -192,7 +192,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > * Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie.
 
-> * [Lab 1 Séries](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte1_introd.ipynb) 
+> * [Lab 1 Séries](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte1_introd.ipynb) | [Solução](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte1_introd_solucao.ipynb)
  
 **28.05** **Séries Temporais II, e exercícios**
 
@@ -200,12 +200,44 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > * [Livro SBSI (Capítulo)](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/138)
  
-> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_xx.ipynb)
+> * [**Exercício Avaliativo**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_exercicio.ipynb) | [Solução Turma 1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_1.ipynb)
+ | [Solução Turma 2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Exemplo_ARIMA_2.ipynb) 
 
-* **29.05** **ATENÇÃO:** Aula, exercício avaliativo
+
 
 **04.06** **Apresentação dos Projetos e Dúvidas**
 
+#### Visualização de Dados
+
+> * Sugestões de questões adicionais para estudo:
+> 1. Como fazer múltiplos gráficos com proporções diferentes? (em um subplot(1,2,1), há dois gráficos, mas ambos de mesmo tamanho ocupando cada um cerca de 50% da largura da imagem). 
+
+#### Testes de Hipóteses
+
+> [Outros Exemplos de Testes de Significância](https://github.com/gedeck/practical-statistics-for-data-scientists/blob/master/python/notebooks/Chapter%203%20-%20Statistical%20Experiments%20and%20Significance%20Testing.ipynb), do livro [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce, Peter Gedeck](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce%2C_Andrew_Bruce.pdf)
+
+> * Sugestões de questões adicionais para estudo:
+> 1. Como aplicar o *bootstrap* para obter intervalos de confiança?
+> 2. Saiba construir uma tabela de contingência. Que tipo de teste se aplica a uma matriz de contingência?
+> 3. Saiba identificar o teste adequado de acordo com o tipo de variáveis contínuas (numéricas), discretas (categóricas) ou contínuas (numéricas) $\versus$ discretas (categóricas)
+> 4. Quais os principais pressupostos dos testes paramétricos? (ou quando empregamos os testes não paramétricos)
+> 5. Pesquise: qual o papel e como empregar o poder (*power*) de um teste de significância? (são ao menos dois usos)
+> 6. Pesquise: como obter os grupos que diferem em um teste de ANOVA?
+
+#### Séries Temporais
+
+> * [Exercício Arima 1](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte2_arima.ipynb) |
+[Solução](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024/blob/main/exerc_parte2_arima_solucao.ipynb), *observação: em prova devemos empregar parâmetros do ACF e PACF mas fáceis de identificar (sem sazonalidade).*
+
+> * [Exercício Arima 2 (Solução)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Lab_TimeSeries2_solucao.ipynb)
+
+> * Sugestões de questões adicionais para estudo:
+> 1. Como prever para uma Série n períodos futuros, ou até uma data?
+> 2. Como medir a *correlação* entre diferentes Séries Temporais e o que se pode concluir disso?
+> 3. Como construir modelos de predição alternativos MA, AR e comparar o resultado com um modelo ARIMA?
+> 4. Pesquise: sobre o conceito de *deriva* de Séries Temporais.
+> 5. Que outras métricas de erro empregar além do RMSE? Alguma vantagem/desvantagem entre elas?
+> 6. Como acessar os dados e adicionar o intervalo de confiânça de predições?
 
 <br>
 <br>
