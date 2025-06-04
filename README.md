@@ -209,17 +209,17 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 #### Visualização de Dados
 
-> * Sugestões de questões adicionais para estudo:
+> * **Sugestões de questões adicionais para estudo**
 > 1. Como fazer múltiplos gráficos com proporções diferentes? (em um subplot(1,2,1), há dois gráficos, mas ambos de mesmo tamanho ocupando cada um cerca de 50% da largura da imagem). 
 
 #### Testes de Hipóteses
 
 > [Outros Exemplos de Testes de Significância](https://github.com/gedeck/practical-statistics-for-data-scientists/blob/master/python/notebooks/Chapter%203%20-%20Statistical%20Experiments%20and%20Significance%20Testing.ipynb), do livro [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce, Peter Gedeck](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce%2C_Andrew_Bruce.pdf)
 
-> * Sugestões de questões adicionais para estudo:
+> * **Sugestões de questões adicionais para estudo**
 > 1. Como aplicar o *bootstrap* para obter intervalos de confiança?
 > 2. Saiba construir uma tabela de contingência. Que tipo de teste se aplica a uma matriz de contingência?
-> 3. Saiba identificar o teste adequado de acordo com o tipo de variáveis contínuas (numéricas), discretas (categóricas) ou contínuas (numéricas) $\versus$ discretas (categóricas)
+> 3. Saiba identificar o teste adequado de acordo com o tipo de variáveis contínuas (numéricas), discretas (categóricas) ou contínuas (numéricas) $\times$ discretas (categóricas)
 > 4. Quais os principais pressupostos dos testes paramétricos? (ou quando empregamos os testes não paramétricos)
 > 5. Pesquise: qual o papel e como empregar o poder (*power*) de um teste de significância? (são ao menos dois usos)
 > 6. Pesquise: como obter os grupos que diferem em um teste de ANOVA?
@@ -231,7 +231,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > * [Exercício Arima 2 (Solução)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Lab_TimeSeries2_solucao.ipynb)
 
-> * Sugestões de questões adicionais para estudo:
+> * **Sugestões de questões adicionais para estudo**
 > 1. Como prever para uma Série n períodos futuros, ou até uma data?
 > 2. Como medir a *correlação* entre diferentes Séries Temporais e o que se pode concluir disso?
 > 3. Como construir modelos de predição alternativos MA, AR e comparar o resultado com um modelo ARIMA?
