@@ -214,7 +214,7 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 #### Testes de Hipóteses
 
-> [Outros Exemplos de Testes de Significância](https://github.com/gedeck/practical-statistics-for-data-scientists/blob/master/python/notebooks/Chapter%203%20-%20Statistical%20Experiments%20and%20Significance%20Testing.ipynb), do livro [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce, Peter Gedeck](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce%2C_Andrew_Bruce.pdf)
+> * [Outros Exemplos de Testes de Significância](https://github.com/gedeck/practical-statistics-for-data-scientists/blob/master/python/notebooks/Chapter%203%20-%20Statistical%20Experiments%20and%20Significance%20Testing.ipynb), do livro [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce, Peter Gedeck](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce%2C_Andrew_Bruce.pdf)
 
 > * **Sugestões de questões adicionais para estudo**
 > 1. Como aplicar o *bootstrap* para obter intervalos de confiança?
