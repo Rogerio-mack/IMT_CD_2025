@@ -207,6 +207,8 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 **04.06** **Apresentação dos Projetos e Dúvidas**
 
+> Poste aqui até a data de hoje [**Tarefa do Projeto Semestral**](https://forms.gle/7Lm3rvvzV4Zam6jH9).
+
 #### Visualização de Dados
 
 > * **Sugestões de questões adicionais para estudo**
