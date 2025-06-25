@@ -244,6 +244,44 @@ McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 <br>
 <br>
 
+#### **Avaliação P2**
+
+> [Gabarito da Prova](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_P2_2025S1_solucao.ipynb)
+
+> [Planilha com o detalhamento das Notas do Segundo Bimestre e Feedback complementares](https://github.com/Rogerio-mack/IMT_CD_2025/raw/refs/heads/main/CD_P2.xlsx)
+
+#### **Notas da Correção da Prova**
+
+A prova tem que 10,0 pontos. Acesse as notas.
+
+* **Testes de Hipóteses Q1-Q2**
+
+> 1. Alguns alunos resolveram este exercício empregando df.sample no lugar de df. Foram considerados os resultados corretos para quaisquer dos dados. 
+
+> 2. A princípio na Q2 o **t-test** é o correto e suficiente. O teste de **levene** mostra que as variâncias não são significativamente diferentes. Mas havendo quantidades diferentes pode-se optar pelo **t-Welch** (ttest_ind com equal_var=False). Aceitei ambos, desde que aplicados corretamente, mesmo quando o aluno denominou t-test para t-Welch. O **z-test**, tratando-se de uma amostra (o caso do Titanic e que queremos inferir para outros casos), não correto, mas aceitei desde aplicado corretamente. Mas observar que para uma das provas o teste é **unilateral**. 
+
+* **Gráfico Q3**
+
+> Sem apontamentos aqui. Gráficos próximos foram considerados 100%.
+
+* **ARIMA Q4-Q8**
+
+> 1. Há uma nota adicional de avaliação geral adicionada para construção geral do modelo, pois no caso do aluno errar a seleção dos dados, todos os resultados ficam comprometidos. Erros mais comuns:
+
+>> * **Erro na seleção dos dados**: erro na seleção do intervalo de datas, erro na separação train e test, e uso da série diferenciada no modelo
+>> * **Erro na interpretação ACF/PACF**
+>> * **Códigos copiados empregados sem os devidos ajustes**: os mais comuns `residuals[2:-2]`,`d=[2]`, por exemplo, foram tirados de códigos exemplos das aulas, mas precisarm ter ajustado para cada caso...
+
+* **ARIMA Q9**
+
+> O ponto chave era verificar a ocorrências de SAZONALIDADES (não ciclos!) e que portanto é necessário empregar um modelo SARIMA (e não pode ser empredado ARIMA). Mas considerei muitos casos, exceto os que não apresentaram qualquer análise.
+
+* **Hipótese não paramétrico Q10**
+
+> O ponto chave é identificar que a variável numérica (o que elimina o teste Chi2, o que foi um erro comum) não tem uma distribuição normal, as quantidades diferentes, o teste requerido é um teste não paramétrico como `mannwhitneyu`. 
+
+
+
 ### Algumas referências úteis
 >
 >
