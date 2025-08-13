@@ -280,7 +280,16 @@ A prova tem que 10,0 pontos. Acesse as notas.
 
 > O ponto chave é identificar que a variável numérica (o que elimina o teste Chi2, o que foi um erro comum) não tem uma distribuição normal, as quantidades diferentes, o teste requerido é um teste não paramétrico como `mannwhitneyu`. 
 
+### 2o SEMESTRE
 
+**13.08** **Aprendizado Supervisionado: Regressão Linear**
+
+[Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
+
+[Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
+
+<br>
+<br>
 
 ### Algumas referências úteis
 >
@@ -321,9 +330,5 @@ A prova tem que 10,0 pontos. Acesse as notas.
 >
 
 
-**13.08** **Aprendizado Supervisionado: Regressão Linear**
 
-[Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
-
-[Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
