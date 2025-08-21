@@ -284,20 +284,22 @@ A prova tem que 10,0 pontos. Acesse as notas.
 
 **13.08** **Aprendizado Supervisionado: Regressão Linear**
 
-[Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
+> * [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
-[Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
+> * [Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 > *ML $\times$ IA $\times$ Redes neurais; Aprendizado de Máquina Supervisionado, não Supervisionado e de Reforço; Supervisionado: Classificação x Regressão;
 Método dos Mínimos Quadrados; `ols` statsmodels; $R^2$ e $R^2$ ajustado; p-values dos coeficientes.*
 
 **20.08** **Prática de Regressão Linear**
 
-[Regressão Linear, stasmodel Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_scale.ipynb) |
+> * [Regressão Linear, stasmodel Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_scale.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_scale_solucao.ipynb)
 
 > *Refinando um modelos de regressão; normalização (proporcionalidade dos pesos) e hot-encode; heterocedasticidade e transformações ($\log$, outras); statsmodels $\times$ scikit-learn;
 causabilidade e outras relações.*
+
+> * [Projeto 2o Semestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Projeto_.png), propostas até **10.10**
 
 <br>
 <br>
