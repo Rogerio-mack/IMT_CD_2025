@@ -301,6 +301,16 @@ causabilidade e outras relações.*
 
 > * [Projeto 2o Semestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Projeto_.png), propostas até **10.10**
 
+**27.08** **Métodos Robustos de Regressão Linear**
+
+> * [Termos de interação e modelos robustos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_robust_regression.ipynb)
+
+> * [Regressão, Exercícios](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_robust_lab.ipynb) | [Solução
+](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_robust_solucao.ipynb)
+
+> * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
+
+
 <br>
 <br>
 
