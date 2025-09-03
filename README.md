@@ -310,6 +310,11 @@ causabilidade e outras relações.*
 
 > * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
 
+**03.09 Classificação e Regressão Logística**
+
+> * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
+
+> * [**Exercício Avaliativo 04.09**]
 
 <br>
 <br>
