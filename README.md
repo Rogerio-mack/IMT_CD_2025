@@ -314,7 +314,7 @@ causabilidade e outras relações.*
 
 > * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
 
-> * [**Exercício Avaliativo 04.09**]
+> * [**Exercício Avaliativo 04.09**] *Amanhã, respeitar o horário da sua turma para a atividade avaliativa.*
 
 <br>
 <br>
