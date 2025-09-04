@@ -1,4 +1,4 @@
-<img src="https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/maua_logo.png?raw=true" width=300 align="right">
+<img src="https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/maua_logo.png?raw=true" width=300>
 
 <br>
 
