@@ -282,6 +282,10 @@ A prova tem que 10,0 pontos. Acesse as notas.
 
 ### 2o SEMESTRE
 
+> * [Gabarito PSUB](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_PSUB1_2025_solucao_.ipynb)
+
+> * [Notas e feedbacks das questões](https://github.com/Rogerio-mack/IMT_CD_2025/raw/refs/heads/main/CD_SUB1_2025%20(respostas).xlsx)
+
 **13.08** **Aprendizado Supervisionado: Regressão Linear**
 
 > * [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
@@ -304,11 +308,6 @@ causabilidade e outras relações.*
 **27.08** **Métodos Robustos de Regressão Linear**
 
 > * [Termos de interação e modelos robustos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_robust_regression.ipynb)
-
-> * [Regressão, Exercícios](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_robust_lab.ipynb) | [Solução
-](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_regressao_robust_solucao.ipynb)
-
-> * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
 
 **03.09 Classificação e Regressão Logística**
 
