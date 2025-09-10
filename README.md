@@ -316,6 +316,10 @@ causabilidade e outras relações.*
 
 > * [**Exercício Avaliativo 04.09**] *Amanhã, respeitar o horário da sua turma para a atividade avaliativa.*
 
+**10.09 Hot encode, Scale, nulls e estimadores**
+
+> [Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Hot_Encode_Scale.ipynb)
+
 <br>
 <br>
 
