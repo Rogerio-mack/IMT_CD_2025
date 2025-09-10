@@ -304,7 +304,7 @@ Método dos Mínimos Quadrados; `ols` statsmodels; R2 e R2 ajustado; p-values do
 > *Refinando um modelos de regressão; normalização (proporcionalidade dos pesos) e hot-encode; multicolinearidade; heterocedasticidade e transformações (`Log, outras); statsmodels X scikit-learn;
 causabilidade e outras relações.*
 
-> * [Projeto 2o Semestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Projeto_.png), propostas até **10.10**
+> * [Projeto 2o Semestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Projeto_.png), propostas até **18.09**
 
 **27.08** **Métodos Robustos de Regressão Linear**
 
