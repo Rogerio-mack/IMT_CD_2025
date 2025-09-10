@@ -318,7 +318,7 @@ causabilidade e outras relações.*
 
 **10.09 Hot encode, Scale, nulls e estimadores**
 
-> [Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Hot_Encode_Scale.ipynb)
+> * [Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Hot_Encode_Scale.ipynb)
 
 <br>
 <br>
