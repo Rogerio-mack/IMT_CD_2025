@@ -314,11 +314,24 @@ causabilidade e outras relações.*
 
 > * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
 
-> * [**Exercício Avaliativo 04.09**] *Amanhã, respeitar o horário da sua turma para a atividade avaliativa.*
+> * [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML3_RegressaoLogistica_ex.ipynb)
+
+> * [**Exercício Avaliativo 04.09**] | [Solução 1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_ex1_LR_solucao_1.ipynb) | [Solução 2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_ex1_LR_solucao_2.ipynb)
 
 **10.09 Hot encode, Scale, nulls e estimadores**
 
 > * [Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Hot_Encode_Scale.ipynb)
+
+**17.09 Conjuntos de Treinamento e Teste, Knn e Árvores de Decisão**
+
+> * [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn.ipynb)
+
+> * [Lab Caso: **Predição de Diagnósticos a partir de Dados de Imagens**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn_ex.ipynb)
+
+> * [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees.ipynb)
+
+> * [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees_ex.ipynb)
+
 
 <br>
 <br>
