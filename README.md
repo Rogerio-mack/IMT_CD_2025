@@ -310,7 +310,7 @@ causabilidade e outras relações.*
 
 > * [Termos de interação e modelos robustos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_robust_regression.ipynb)
 
-**03.09 Classificação e Regressão Logística**
+**03.09 Classificação e Regressão Logística, Conjuntos de Treinamento e Teste**
 
 > * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb)
 
@@ -320,11 +320,11 @@ causabilidade e outras relações.*
 
 > * [Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Hot_Encode_Scale.ipynb)
 
-**17.09 Conjuntos de Treinamento e Teste, Knn e Árvores de Decisão**
+**17.09 Knn e Árvores de Decisão**
 
-> * [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn.ipynb) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Lab_Knn_Metricas_Resolvido.ipynb)
+> * [Classificação: Knn](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn.ipynb) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Lab_Knn_Metricas_Resolvido.ipynb)
 
-> * [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees.ipynb)
+> * [Árvores de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees.ipynb)
 
 > * **Exercício Avaliativo 18.09:** [aqui](https://forms.gle/oYFoaBqoh17qsMzc6)
 
