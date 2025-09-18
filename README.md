@@ -312,9 +312,7 @@ causabilidade e outras relações.*
 
 **03.09 Classificação e Regressão Logística**
 
-> * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb)
-
-> * [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML3_RegressaoLogistica_ex.ipynb)
+> * [Classificação e Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_RegressaoLogistica.ipynb) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML3_RegressaoLogistica_ex_solucao.ipynb)
 
 > * [**Exercício Avaliativo 04.09**] | [Solução 1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_ex1_LR_solucao_1.ipynb) | [Solução 2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_ex1_LR_solucao_2.ipynb)
 
@@ -324,13 +322,11 @@ causabilidade e outras relações.*
 
 **17.09 Conjuntos de Treinamento e Teste, Knn e Árvores de Decisão**
 
-> * [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn.ipynb)
-
-> * [Lab Caso: **Predição de Diagnósticos a partir de Dados de Imagens**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn_ex.ipynb)
+> * [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML4_Knn.ipynb) | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Lab_Knn_Metricas_Resolvido.ipynb)
 
 > * [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees.ipynb)
 
-> * [Lab Caso: **Propensão de Compra de Clientes por Telemarketing**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees_ex.ipynb)
+> * **Exercício Avaliativo 18.09:** [aqui](https://forms.gle/oYFoaBqoh17qsMzc6)
 
 
 <br>
