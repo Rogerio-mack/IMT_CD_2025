@@ -318,7 +318,7 @@ causabilidade e outras relações.*
 
 **10.09 Hot encode, Scale, nulls e estimadores**
 
-> * [Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Hot_Encode_Scale.ipynb)
+> * [Nulls, Hot encode & Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_hot_null_encode_scale.ipynb)
 
 **17.09 Knn e Árvores de Decisão**
 
@@ -328,6 +328,7 @@ causabilidade e outras relações.*
 
 > * **Exercício Avaliativo 18.09:** [aqui](https://forms.gle/oYFoaBqoh17qsMzc6), *Entrega 22.09*
 
+**24.09 Avaliação P3**
 
 <br>
 <br>
