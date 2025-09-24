@@ -326,7 +326,7 @@ causabilidade e outras relações.*
 
 > * [Árvores de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML5_DecisionTrees.ipynb)
 
-> * **Exercício Avaliativo 18.09:** [aqui](https://forms.gle/oYFoaBqoh17qsMzc6), *Entrega 22.09*
+> * **Exercício Avaliativo 18.09:** [aqui](https://forms.gle/oYFoaBqoh17qsMzc6), *Entrega 22.09*, [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_knn_dt_solucao.ipynb)
 
 **24.09 Avaliação P3**
 
