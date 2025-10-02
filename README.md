@@ -330,6 +330,10 @@ causabilidade e outras relações.*
 
 **24.09 Avaliação P3**
 
+**01.10 Cross-Validation, GridSearch e RandomForest**
+
+> * [Cross-Validation, GridSearch e RandomForest](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML6_CV_GridSearch.ipynb)
+
 <br>
 <br>
 
