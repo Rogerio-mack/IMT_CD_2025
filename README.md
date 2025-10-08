@@ -334,6 +334,11 @@ causabilidade e outras relações.*
 
 > * [Cross-Validation, GridSearch e RandomForest](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/ML6_CV_GridSearch.ipynb)
 
+**08.10**
+
+> * [Exercícios CV](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CV_GridSearchCV.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CV_GridSearchCV_solucao.ipynb)
+
 <br>
 <br>
 
