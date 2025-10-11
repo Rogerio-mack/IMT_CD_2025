@@ -341,14 +341,12 @@ causabilidade e outras relações.*
 > * [Exercícios CV](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CV_GridSearchCV.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CV_GridSearchCV_solucao.ipynb)
 
-<br>
-<br>
-
 **15.10**
 
 > * [Notas 3o Bimestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Notas_3o_Bimestre.pdf) | [Planilha de Detalhamento das Notas](https://github.com/Rogerio-mack/IMT_CD_2025/raw/refs/heads/main/CD_P3.xlsx) | *As notas não foram lançadas, aguardando ajuste no sistema.*
 
-> 
+<br>
+<br>
 
 ### Algumas referências úteis
 >
