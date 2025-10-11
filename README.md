@@ -328,7 +328,9 @@ causabilidade e outras relações.*
 
 > * **Exercício Avaliativo 18.09:** [aqui](https://forms.gle/oYFoaBqoh17qsMzc6), *Entrega 22.09*, [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ex_knn_dt_solucao.ipynb)
 
-**24.09 Avaliação P3**
+**24.09 Avaliação P3** | Soluções [Prova 1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_P3_2025_1_solucao.ipynb) | 
+[Prova 2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_P3_2025_2_solucao.ipynb) |
+[Prova 3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_P3_2025_3_solucao.ipynb)
 
 **01.10 Cross-Validation, GridSearch e RandomForest**
 
@@ -341,6 +343,12 @@ causabilidade e outras relações.*
 
 <br>
 <br>
+
+**15.10**
+
+> * [Notas 3o Bimestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Notas_3o_Bimestre.pdf) | [Planilha de Detalhamento das Notas](https://github.com/Rogerio-mack/IMT_CD_2025/raw/refs/heads/main/CD_P3.xlsx) | *As notas não foram lançadas, aguardando ajuste no sistema.*
+
+> 
 
 ### Algumas referências úteis
 >
