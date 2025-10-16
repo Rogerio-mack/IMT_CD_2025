@@ -341,9 +341,24 @@ causabilidade e outras relações.*
 > * [Exercícios CV](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CV_GridSearchCV.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CV_GridSearchCV_solucao.ipynb)
 
-**15.10**
+**15.10** **Exercícios Resolvidos e Processamento de Linguagem Natural**
 
 > * [Notas 3o Bimestre](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/Notas_3o_Bimestre.pdf) | [Planilha de Detalhamento das Notas](https://github.com/Rogerio-mack/IMT_CD_2025/raw/refs/heads/main/CD_P3.xlsx) | *As notas não foram lançadas, aguardando ajuste no sistema.*
+
+> * [Árvores de Decisão, Seleção de Atributos e de Modelos - Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_DT_Selection_solucao.ipynb)
+
+> * [Processamento de Linguagem Natural](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/IMT_TFIDF_word2vec.pdf)
+
+> * [Trabalhando com Texto, Introdução ao TF-IDF (apresentação) e NLKT](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TFIDF_word2vec.ipynb)
+
+> * [TF-IDF scikit-learn, Text Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_TFIDF_Sentiment_Embedding.ipynb) 
+
+**22.10** **Aprendizado não Supervisionado: Clustering**
+
+> * [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
+
+**ATENÇÃO**: Próxima quinta-feira, 23.10, Lab Avaliativo 
+
 
 <br>
 <br>
