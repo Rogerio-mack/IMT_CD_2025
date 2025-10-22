@@ -353,12 +353,15 @@ causabilidade e outras relações.*
 
 > * [TF-IDF scikit-learn, Text Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_TFIDF_Sentiment_Embedding.ipynb) 
 
-**22.10** **Aprendizado não Supervisionado: Clustering**
+**22.10** **Atividades Avaliativas 4o Bimestre**
+
+> * [Análise de Sentimento de Documentos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX4B_1.ipynb), *em grupo, para 08.11*
+
+> * [Tokenização e Clusterização](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX4B_2.ipynb), *em grupo, para 15.11*
+
+**29.10** **Aprendizado não Supervisionado: Clustering**
 
 > * [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
-
-**ATENÇÃO**: Próxima quinta-feira, 23.10, Lab Avaliativo 
-
 
 <br>
 <br>
