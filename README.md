@@ -363,6 +363,8 @@ causabilidade e outras relações.*
 
 > * [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
 
+**05.11** **Apresentação dos Projetos**
+
 <br>
 <br>
 
