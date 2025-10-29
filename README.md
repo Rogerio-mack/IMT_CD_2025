@@ -361,7 +361,7 @@ causabilidade e outras relações.*
 
 **29.10** **Aprendizado não Supervisionado: Clustering**
 
-> * [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
+> * [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Clustering.ipynb)
 
 **05.11** **Apresentação dos Projetos**
 
