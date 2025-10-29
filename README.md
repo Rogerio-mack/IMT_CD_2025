@@ -365,7 +365,7 @@ causabilidade e outras relações.*
 
 **05.11** **Apresentação dos Projetos**
 
-**10.11 a 22.11** **P4** (20.11 Feriado)
+**10.11 a 22.11** **P4 em 19.11** (20.11 Feriado)
 
 **03.12 a 09.12** **Substitutiva**
 
