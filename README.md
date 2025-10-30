@@ -362,6 +362,9 @@ causabilidade e outras relações.*
 **29.10** **Aprendizado não Supervisionado: Clustering**
 
 > * [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_Clustering.ipynb)
+> * [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_PCA_scikitlearn.ipynb)
+
+>> [PCA, by defition (math)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_PCA_by_definition.ipynb)
 
 **05.11** **Apresentação dos Projetos**
 
