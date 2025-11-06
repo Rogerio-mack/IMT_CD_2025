@@ -355,9 +355,9 @@ causabilidade e outras relações.*
 
 **22.10** **Atividades Avaliativas 4o Bimestre**
 
-> * [Análise de Sentimento de Documentos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX4B_1.ipynb), *em grupo, para 08.11*
+> * [Análise de Sentimento de Documentos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX4B_1.ipynb), *em grupo, para 08.11*, Poste [aqui sua resposta](https://forms.gle/E1nE5xqapYh4wrYNA) com o nome dos participantes e o link do notebook de solução. Não serão aceitos notebooks sem textos explicativos das análises.
 
-> * [Tokenização e Clusterização](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX4B_2.ipynb), *em grupo, para 15.11*
+> * [Tokenização e Clusterização](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EX4B_2.ipynb), *em grupo, para 15.11*, Poste [aqui sua resposta](https://forms.gle/ZWGNwP8S4mJjrQFP9) com o nome dos participantes e o link do notebook de solução. Não serão aceitos notebooks sem textos explicativos das análises.
 
 **29.10** **Aprendizado não Supervisionado: Clustering**
 
