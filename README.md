@@ -371,7 +371,16 @@ causabilidade e outras relações.*
 
 > * [Poste aqui](https://forms.gle/ScbYGMqSrRYyTxpc8) os links e participantes do projeto até 06.11.
 
-> * [Exercício Final (Code)](https://forms.gle/waacruTUMuK17uTp7) 
+> * **Exercício Final**
+
+>> * [Teoria Form](https://forms.gle/TBxnTqrmPANV1FZk8) | [Teoria pdf](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/CD_EX_4_final_Q.pdf) para solução: Veja a pontuação ao final do envio do form
+
+>> * [Lab Form](https://forms.gle/waacruTUMuK17uTp7) | [Lab Notebook](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_P4A_2025S2.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_P4A_2025S2_solucao.ipynb)
+
+>> *Este exercício final é apenas uma amostra do tipo de questões e exercícios, podendo haver na prova outros conteúdos tratados em sala e diferente número de questões em cada parte.*
+
+>> ***Na prova (P4 e Sub)** você terá até 30min para a realização da parte de Teoria (máx 3,0 pontos), em papel e sem consulta. Concluída a parte de Teoria, você poderá acessar a parte de Laboratório (mín 7,0 pontos).*  
+
 
 **10.11 a 22.11** **P4 em 19.11** (20.11 Feriado)
 
