@@ -384,6 +384,8 @@ causabilidade e outras relações.*
 
 **10.11 a 22.11** **P4 em 19.11** (20.11 Feriado)
 
+> * [PESQUISA DE SATISFAÇÃO (anônima)](https://forms.gle/DU66T2PZDBSGtgqT8)
+
 **03.12 a 09.12** **Substitutiva**
 
 <br>
