@@ -385,6 +385,7 @@ causabilidade e outras relações.*
 **10.11 a 22.11** **P4 em 19.11** (20.11 Feriado)
 
 > * [PESQUISA DE SATISFAÇÃO (anônima)](https://forms.gle/DU66T2PZDBSGtgqT8)
+> * [Gabarito P4 Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_P4_2025_solucao.ipynb) | [Gabarito P4 Teoria e Detalhamento/Feedback das Atividades e Notas](https://github.com/Rogerio-mack/IMT_CD_2025/tree/main/4o_bimestre)
 
 **03.12 a 09.12** **Substitutiva**
 
